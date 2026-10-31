@@ -1,0 +1,9 @@
+Node2D
+TileMapLayer
+Control
+CanvasLayer
+CanvasGroup
+Camera2D
+CollisionShape2D
+Sprite2D
+CharacterBody2D

@@ -1,0 +1,27 @@
+# ---- Secrets and signing: NEVER commit ----
+*.jks
+*.keystore
+keystore.properties
+key.properties
+local.properties
+google-services.json
+*service-account*.json
+.env
+
+# ---- Build output ----
+build/
+.gradle/
+.cxx/
+captures/
+*.apk
+*.aab
+
+# ---- Editor files ----
+.idea/
+*.iml
+
+# ---- Flutter ----
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/

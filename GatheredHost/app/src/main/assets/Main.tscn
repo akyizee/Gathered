@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://cesjlgl5oeskc"]
+
+[node name="Main" type="Control" unique_id=444795976]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Label" type="Label" parent="." unique_id=461572610]
+layout_mode = 0
+offset_left = 290.0
+offset_top = 250.0
+offset_right = 842.0
+offset_bottom = 338.0
+theme_override_font_sizes/font_size = 64
+text = "Hello from Godot!"
